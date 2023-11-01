@@ -14,4 +14,4 @@ I have also included a json file for whoever wants to add the reliquary as a tra
 here: https://github.com/crazysnailboy/VillagerTrades/wiki/Adding-Professions
 and the mod can be downloaded here: https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables-emerald-edition
 
-This script pack requires both crafttweaker and contenttweaker to function
+This script pack requires both crafttweaker and contenttweaker to function. Information for both can be found on the official docs here: https://docs.blamejared.com/1.12/en/index
