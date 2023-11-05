@@ -1,0 +1,10 @@
+{
+	"profession": {
+		"name": "vtt:wild_mage",
+		"texture": "vtt:textures/entity/villager/wild_mage.png",
+		"zombieTexture": "vtt:textures/entity/zombie_villager/zombie_wild_mage.png"
+	},
+	"careers": [
+		"wild_mage"
+	]
+}
