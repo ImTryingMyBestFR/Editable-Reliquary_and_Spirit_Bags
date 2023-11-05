@@ -10,7 +10,7 @@ The pack is comprised of 3 parts:
 
   3.The assets for the reliquary and the spirit bag. The textures for this items where NOT done by me but by the Mystic Modding team.
 
-I have also included a json file for whoever wants to add the reliquary as a trade using VTT. I haven't tested this enough yet though. Information about VTT can be found 
+I have also included a VTT folder which contains a rewrite of the wild mage villager as altering their trades with VTT causes the game to crash. I haven't completed this yet though. Information about VTT can be found 
 here: https://github.com/crazysnailboy/VillagerTrades/wiki/Adding-Professions
 and the mod can be downloaded here: https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables-emerald-edition
 
