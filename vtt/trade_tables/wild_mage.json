@@ -1,0 +1,258 @@
+{
+    "Profession":"vtt:wild_mage",
+    "Career":"wild_mage",
+    "Offers":{
+        "Recipes":
+        [
+            {
+                "action": "add",
+                "buy": {
+                    "id": "mysticalworld:aubergine",
+                    "Count": {
+                        "min": 6,
+                        "max": 12
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:emerald",
+                    "Count": 1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id":"roots:cooked_pareskia" ,
+                    "Count": {
+                        "min": 9,
+                        "max": 15
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:emerald",
+                    "Count": 1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "roots:wildewheat_bread",
+                    "Count": {
+                        "min": 3,
+                        "max": 5
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:emerald",
+                    "Count": 1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": ["roots:wildroot","roots:terra_moss"],
+                    "Count": {
+                        "min": [3,3],
+                        "max": [5,5]
+                    }
+                },
+                "sell": {
+                    "id":"minecraft:emerald" ,
+                    "Count": 1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": ["roots:bark_oak","roots:terra_moss","roots:bark_birch","roots:bark_spruce","roots:bark_acacia","roots:bark_dark_oak","roots:bark_jungle"],
+                    
+                    "Count": {
+                        "min":[10,10,10,10,10,10,10],
+                        "max": [21,21,21,21,21,21,21]
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:emerald",
+                    "Count": 1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": ["roots:runic_dust","roots:petals"],
+                    "Count": {
+                        "min":[10,10],
+                        "max": [21,21]
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:emerald",
+                    "Count": 1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":1
+                },
+                "sell":{
+                    "id":["roots:dewgonia","roots:cloud_berry","roots:stalicripe","roots:infernal_bulb","roots:baffle_cap_mushroom"],
+                    "count":[1,1,1,1,1]
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":{
+                        "min":16,
+                        "max":24
+                    }
+                        
+                },
+                "sell":{
+                    "id":["roots:living_axe","roots:living_hoe","roots:living_pickaxe","roots:living_shovel","roots:licing_sword"],
+                    "count":[1,1,1,1,1]
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":{
+                        "min":3,
+                        "max":10
+                    }
+                        
+                },
+                "sell":{
+                    "id":"roots:wooden_knife",
+                    "count":1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":{
+                        "min":16,
+                        "max":24
+                    }
+                        
+                },
+                "sell":{
+                    "id":["roots:herb_pouch","roots:wooden_shears","roots:fire_starter"],
+                    "count":[1,1,1]
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":["roots:mystic_feather","roots:strange_ooze","fey_leather"],
+                    "count":{
+                        "min":[1,1,1],
+                        "max":[4,4,4]
+                    }
+                        
+                },
+                "sell":{
+                    "id":"minecraft:emerald",
+                    "count":1
+                },
+                "CareerLevel": 2
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":{
+                        "min":2,
+                        "max":5
+                    }
+                        
+                },
+                "sell":{
+                    "id":["mysticalworld:aubergine_seeds","roots:wildewheat_seed","roots:moonglow_seed","roots:spirit_herb_seed","roots:pereskia_bulb"],
+                    "count":[1,1,1,1,1]
+                },
+                "CareerLevel": 2
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":{
+                        "min":5,
+                        "max":13
+                    }
+
+                },
+                "sell":{
+                    "id":["roots:component_pouch","roots:runic_shears"],
+                    "count":[1,1]
+
+                }
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":["roots:wildewheat","roots:spirit_herb","roots:moonglow_leaf","roots:pereskia"],
+                    "count":{
+                        "min":[1,1,1,1],
+                        "max":[4,4,4,4]
+                    }
+                        
+                },
+                "sell":{
+                    "id":"minecraft:emerald",
+                    "count":1
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":{
+                        "min":1,
+                        "max":4
+                    }
+                        
+                },
+                "sell":{
+                    "id":"roots:wildwood_sapling",
+                    "count":1
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action":"add",
+                "buy":{
+                    "id":"minecraft:emerald",
+                    "count":{
+                        "min":1,
+                        "max":4
+                    }
+                        
+                },
+                "sell":{
+                    "id":"contenttweaker:reliquary",
+                    "count":1
+                },
+                "CareerLevel": 3
+            }
+
+        ]
+    }
+      
+}
